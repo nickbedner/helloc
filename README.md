@@ -1,6 +1,6 @@
-# Mana - Mana's Also Not (an) Ancronym
+# HelloC
 
-A simple template for creating a new C program with CMake and LLVM.
+A simple template for creating a new C program with CMake and LLVM in VSCode.
 
 ### Setting Up a Project
 
